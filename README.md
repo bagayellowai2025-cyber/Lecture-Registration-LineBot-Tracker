@@ -64,3 +64,7 @@ The script automatically detects or creates the following required columns in yo
 ⚠️ Important Notes
 - Do not publicly share your LINE_ACCESS_TOKEN. Keep it secure.
 - If you manually edit the spreadsheet rows, you can run recalcAllStatus() from the Apps Script editor to recalculate and refresh all statuses and order numbers.
+
+Reference (Prviate)
+- Google問卷：https://docs.google.com/forms/d/e/1FAIpQLSeJVCm4HAfO_Ycq6anBkZUvcqCy4_NSvI2Qfa_twj_-DXUqwA/viewform
+- Google試算表（回應）：https://docs.google.com/spreadsheets/d/1Ugo6KXkPOg4pAkQ9cixj6zudYrMNDRqLzyMnycz6-eM/edit?resourcekey=&gid=1274567962#gid=1274567962
