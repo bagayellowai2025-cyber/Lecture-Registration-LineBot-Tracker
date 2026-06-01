@@ -134,7 +134,7 @@ function recalcAllStatus() {
 // ==========================================
 // 全域設定區
 // ==========================================
-const LINE_ACCESS_TOKEN = '6KImgi15VS5Eu965ga6g/0dLtwz2juP4K/ju3KH3nQEwGY61P4VRHsge5/87WuGtfEVHDXUdEVlS7OMq/UnZJKJX0OtmMt8HRhe72aqWOe31IqpZLHKeZK9LzIntkexDuXvNecCVpE2EBYfWBvEwgQdB04t89/1O/w1cDnyilFU=';
+const LINE_ACCESS_TOKEN = 'YOUR_LINE_ACCESS_TOKEN';
 
 // ==========================================
 // 1. LINE Bot 核心處理與 Log 日誌區
