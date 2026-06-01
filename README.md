@@ -31,7 +31,7 @@ This project integrates **Google Forms**, **Google Apps Script (GAS)**, and the 
 ```
 ### 3. Update the capacity limit in handleFormSubmit() and recalcAllStatus() if needed:
 ```javascript
-const LIMIT = 3; // Change this to your actual maximum capacity
+   const LIMIT = 3; // Change this to your actual maximum capacity
 ```
 
 3. Deploy the Webhook
@@ -44,8 +44,8 @@ const LIMIT = 3; // Change this to your actual maximum capacity
 4. Initialize Triggers
 Run the following functions manually once from the Apps Script editor (you will be prompted to grant permissions):
 ```javascript
-- setupFormSubmitTrigger(): "Sets up the trigger to process new form submissions automatically."
-- setupPeriodicTrigger(): "(Optional) Sets up the 12-hour automated push notification."
+   setupFormSubmitTrigger(): "Sets up the trigger to process new form submissions automatically."
+   setupPeriodicTrigger(): "(Optional) Sets up the 12-hour automated push notification."
 ```
 
 📱 LINE Bot Commands
