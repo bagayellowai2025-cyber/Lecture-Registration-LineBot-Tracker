@@ -317,7 +317,7 @@ function testAuth() {
 // ==========================================
 
 // ⚠️ 請在此處填入你步驟一取得的 LINE User ID (或是群組的 Group ID)
-const LINE_USER_ID = 'U20ab07afa3005d458b367f05e2dde0d1'; 
+const LINE_USER_ID = 'YOUR_LINE_USER_ID'; 
 
 /**
  * 核心定時推播函式 (整合報名人數與 VIP 清單)
