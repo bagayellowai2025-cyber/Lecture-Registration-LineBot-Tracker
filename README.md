@@ -2,6 +2,8 @@
 
 This project integrates **Google Forms**, **Google Apps Script (GAS)**, and the **LINE Messaging API** to create a seamless event registration tracking system. It automatically manages "Accepted" (正取) and "Waitlisted" (備取) attendees based on a capacity limit, and allows the organizer to query real-time registration status directly through a LINE Bot.
 
+[![Demo 影片](https://img.youtube.com/vi/MhuXAsD2DLw/0.jpg)](https://youtube.com/shorts/MhuXAsD2DLw?feature=share)
+
 ## 🌟 Features
 
 *   **Automated Capacity Management:** Automatically assigns "Accepted" (正取) or "Waitlisted" (備取) to new registrants upon Google Form submission based on a customizable limit.
